@@ -1,15 +1,17 @@
-<!-- ===== BANNER ===== -->
+<!-- ===== HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:b91c1c&height=200&section=header&text=Muralidharan%20K&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Security%20Engineer%20%26%20Bug%20Bounty%20Hunter&descSize=20&descAlignY=60" width="100%"/>
+# Muralidharan K
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&center=true&vCenter=true&width=650&color=b91c1c&lines=Hunting+the+bugs+scanners+miss;Auth+bypass+%7C+Account+takeover+%7C+Injection;Web+%E2%80%A2+Android+%E2%80%A2+API+security;Reporting+responsibly+since+January+2023)](https://git.io/typing-svg)
+### 🛡️ Security Engineer & Bug Bounty Hunter
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&center=true&vCenter=true&width=650&color=b91c1c&lines=Hunting+the+bugs+scanners+miss;Auth+bypass+%7C+Account+takeover+%7C+Injection;Web+%E2%80%A2+Android+%E2%80%A2+API+security;Reporting+responsibly+since+2023)](https://git.io/typing-svg)
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muralidharan1530)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murali-dharan-k-7a6b90259/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MuralidharanMT)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muralidharan1530@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=b91c1c&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Muralidase&style=for-the-badge&color=b91c1c&label=PROFILE+VIEWS)
 
 </div>
 
@@ -73,11 +75,11 @@ Recognized by leading organizations for responsibly disclosed vulnerabilities:
 
 <sub>Selected rewarded reports. Replace the rows below with your real entries.</sub>
 
-| Date | Target | Platform | Weakness (CWE) | Severity |
-|:-----|:-------|:---------|:---------------|:--------:|
-| 2024-XX | `example.com` | HackerOne | CWE-640 Weak Password Recovery | 🔴 Critical |
-| 2024-XX | `example.org` | Bugcrowd | CWE-287 Improper Authentication | 🟠 High |
-| 2023-XX | `example.net` | YesWeHack | CWE-79 Cross-Site Scripting | 🟡 Medium |
+| Year | Platform | Weakness (CWE) | Severity |
+|:----:|:---------|:---------------|:--------:|
+| 2024 | HackerOne | CWE-640 Weak Password Recovery | 🔴 Critical |
+| 2024 | Bugcrowd | CWE-287 Improper Authentication | 🟠 High |
+| 2023 | YesWeHack | CWE-79 Cross-Site Scripting | 🟡 Medium |
 
 ---
 
@@ -127,9 +129,5 @@ Recognized by leading organizations for responsibly disclosed vulnerabilities:
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b91c1c,100:0f172a&height=120&section=footer&text=Let's%20secure%20the%20web&fontColor=ffffff&fontSize=18&fontAlignY=70" width="100%"/>
-
-<i>🌐 <a href="https://murali-dharan-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp; 📫 muralidharan1530@gmail.com</i>
-
+  <i>🌐 <a href="https://murali-dharan-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp; 📫 muralidharan1530@gmail.com</i>
 </div>
